@@ -329,7 +329,7 @@
         <div class="bottom-bar">
             <div class="container">
                 <div class="row">
-                    <small class="copyright col-md-6 col-sm-12 col-xs-12">COPYRIGHT @ 2014 SKIT CORPORATION. ALL RIGHTS RESERVED </small>
+                    <small class="copyright col-md-6 col-sm-12 col-xs-12">COPYRIGHT @ 2015 SKIT CORPORATION. ALL RIGHTS RESERVED </small>
                 </div><!--//row-->
             </div><!--//container-->
         </div><!--//bottom-bar-->
