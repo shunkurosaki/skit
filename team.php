@@ -131,7 +131,7 @@
                                     <div class="details col-md-9 col-sm-8 col-xs-6">
                                         <h3 class="title">Liu Tong</h3>
                                         <h4>Human Resources and Quality Management Representative</h4>
-                                        <p>Donec justo magna, mattis a ipsum in, pretium aliquet dolor. Vestibulum rhoncus dolor placerat diam laoreet dictum. Integer auctor augue eget nibh ultrices, vitae fermentum est vehicula. Nullam suscipit metus felis. Ut arcu ante, mollis quis urna in, facilisis placerat leo. Duis auctor diam at quam laoreet, vitae blandit mi fermentum. Fusce mollis pellentesque sem, non eleifend nisl. Suspendisse nisi nulla, consectetur sed pellentesque vitae.</p>                                    
+                                        <p>喋りたいことを喋れるようになった時に、嬉しいそうな表情を浮かべる生徒をたくさん見てきました。Skitの独特のオーダーメイドレッスンこそ、英会話のあるべき姿だと、私は自信持ってみんなにお勧めできます。楽しく真剣に授業を受ける雰囲気をご用意するため、責任を持って採用を担当させて頂きます。Be brave, Run fast、Skitと共に一歩ずつ着実に、進んで行きましょう。</p>
                                     </div>                               
                                 </div>
                                 <div class="row page-row" >
