@@ -125,7 +125,7 @@
                                     <div class="album-cover">
                                         <a href="mytext.php"><img class="img-responsive" src="assets/images/gallery/lesson-1.jpg" alt="" /></a>
                                         <div class="desc">
-                                            <div class="text-center"><h4><small><a href="mytext">１．話したいことを教師に伝える。</a></small></h4></div>
+                                            <div class="text-center"><h4><small><a href="mytext.php">１．話したいことを教師に伝える。</a></small></h4></div>
                                             <p>まずは会話のテーマを決めます。どこで、誰と、何を話したいのか、講師との会話の中からテーマを探していきます。留学中に友達を作る場面、レッスンを受ける場面、新しい演奏のパートナーを探す場面など、テーマの可能性は無限大です。</p>
                                         </div>
                                     </div>
@@ -135,7 +135,7 @@
                                     <div class="album-cover">
                                         <a href="mytext.php"><img class="img-responsive" src="assets/images/gallery/lesson-2.jpg" alt="" /></a>
                                         <div class="desc">
-                                            <div class="text-center"><h4><small><a href="mytext">２．スキットと呼ばれる専用のテキストを作る。</a></small></h4></div>
+                                            <div class="text-center"><h4><small><a href="mytext.php">２．スキットと呼ばれる専用のテキストを作る。</a></small></h4></div>
                                             <p>決定したテーマを基に、講師と会話文を作成します。分からない単語があっても、間違った表現をしても、講師が正しい英語で修正してくれます。そうして作られた会話文を講師がその場でテキストとして編集し、スキットと呼ばれるテキストが完成します。 </p>
                                         </div>
                                     </div>
@@ -145,7 +145,7 @@
                                     <div class="album-cover">
                                         <a href="mytext.php"><img class="img-responsive" src="assets/images/gallery/lesson-3.jpg" alt="" /></a>
                                         <div class="desc">
-                                            <div class="text-center"><h4><small><a href="mytext">３．完成したスキットを自分のものにする。</a></small></h4></div>
+                                            <div class="text-center"><h4><small><a href="mytext.php">３．完成したスキットを自分のものにする。</a></small></h4></div>
                                             <p>完成したテキストはその場で覚えます。正しい発音、イントネーションなど、講師の真似をしながら、徹底的に覚えます。その場で暗記するので帰り道に授業で作成した文章を使って外国人と話す！なんてことも可能です。 </p>
                                         </div>
                                     </div>
@@ -155,7 +155,7 @@
                                     <div class="album-cover">
                                         <a href="mytext.php"><img class="img-responsive" src="assets/images/gallery/lesson-4.jpg" alt="" /></a>
                                         <div class="desc">
-                                            <div class="text-center"><h4><small><a href="mytext">４．スキットをテキスト、音声として持ち帰る。</a></small></h4></div>
+                                            <div class="text-center"><h4><small><a href="mytext.php">４．スキットをテキスト、音声として持ち帰る。</a></small></h4></div>
                                             <p>授業後に、講師が作成した会話文を音読して録音、無料で配信します。ご自身のスマートフォンなどで、いつでも、どこでも音声を聞けるので、気軽に復習することが可能です。英語特有のリズムに慣れ、音の流れで聞き取れるようになることが英会話の秘訣です。 </p>
                                         </div>
                                     </div>
