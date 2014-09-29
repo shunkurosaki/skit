@@ -99,7 +99,7 @@
             <div id="promo-slider" class="slider flexslider">
                 <ul class="slides">
                     <li>
-                        <a href="lesson.php"><img src="assets/images/slides/slide-8.jpg"  alt="" /></a>
+                        <a href="lesson.php"><img src="assets/images/slides/slide-12.jpg"  alt="" /></a>
                         <p class="flex-caption">
                         </p>
                     </li>
