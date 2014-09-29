@@ -202,37 +202,6 @@
                             <section class="widget has-divider">
                                 <a href="contact.php"><img src="assets/images/badge/badge.png"  alt="" width="100%" height="100%" class="overwhite"/></a>
                             </section><!--//widget--> 
-                            <section class="widget row-divider">
-                                <h3 class="title">生徒さんの声</h3>
-                                <div id="testimonials-carousel" class="testimonials-carousel carousel slide">
-                                    <div class="carousel-inner">
-                                        <div class="item active">
-                                            <blockquote class="quote">
-                                                <i class="fa fa-quote-left"></i>
-                                                ニュアンスの違いを徹底しているかしていないかで表現者としての差がついてくると思います。もともとの声や歌の技術でいえば、残っていく残っていかないの差を分けるものはそうしたニュアンスの差を拾ってそこを最後まで表現できるかが決まると思います。
-                                            </blockquote>                
-                                            <div class="row">
-                                                <p class="people col-md-8 col-md-push-1"><span class="name">田中龍太朗さん</span><br><span class="title">東京音楽大学</span></p>
-                                                <img class="profile col-md-4" src="assets/images/testimonials/profile-4.png" alt="">
-                                            </div>                               
-                                        </div><!--//item-->
-                                        <div class="item">
-                                            <blockquote class="quote">
-                                                <i class="fa fa-quote-left"></i>
-                                                イタリア人の先生の話を理解できるようになりたいと思ったのがきっかけです。今私は通っている音楽大学とは別に、あるオペラアカデミーの研修所で3か月に1度、イタリア人の先生によるレッスンを一週間受けているのですが、
-                                            </blockquote>
-                                            <div class="row">
-                                                <p class="people col-md-8 col-md-push-1"><span class="name">大田原瑶さん</span><br><span class="title">東京音楽大学</span></p>
-                                                <img class="profile col-md-4" src="assets/images/testimonials/profile-5.png" alt="">
-                                            </div>                 
-                                        </div><!--//item-->                                        
-                                    </div><!--//carousel-inner-->
-                                    <div class="carousel-controls">
-                                        <a class="prev" href="#testimonials-carousel" data-slide="prev"><i class="fa fa-caret-left"></i></a>
-                                        <a class="next" href="#testimonials-carousel" data-slide="next"><i class="fa fa-caret-right"></i></a>
-                                    </div><!--//carousel-controls-->
-                                </div><!--//testimonials-carousel-->                             
-                            </section><!--//widget-->
                             <section class="widget has-divider">
                                 <h3 class="title">Skitが教える言語</h3>
                                 <ul class="list-unstyled">
@@ -248,45 +217,6 @@
             </div><!--//page--> 
         </div><!--//content-->
     </div><!--//wrapper-->
-
-    <div class="home-page">
-        <div class="wrapper">
-            <div class="content container">
-                <div class="col-md-8 col-sm-8 col-xs-12">
-                    <section class="news">
-                        <h1 class="section-heading text-highlight"><span class="line">新着情報</span></h1>     
-                        <div class="carousel-controls">
-                            <a class="prev" href="#news-carousel" data-slide="prev"><i class="fa fa-caret-left"></i></a>
-                            <a class="next" href="#news-carousel" data-slide="next"><i class="fa fa-caret-right"></i></a>
-                        </div><!--//carousel-controls--> 
-                        <div class="section-content clearfix">
-                            <div id="news-carousel" class="news-carousel carousel slide">
-                                <div class="carousel-inner">
-                                    <div class="item active"> 
-                                        <div class="col-md-4">
-                                            <h2 class="title"><a href="voice-1.php">田中龍太朗さんのインタビュー</a></h2>
-                                            <p>もともと海外に興味があり、音楽を始める前から海外に行って仕事をしたいと考えていました。音大に入った後は、イタリア語の歌に触れる中で...</p>
-                                            <a class="read-more" href="voice-1.php">続きを読む<i class="fa fa-chevron-right"></i></a>                
-                                        </div><!--//news-item-->
-                                        <div class="col-md-4">
-                                            <h2 class="title"><a href="voice-2.php">大田原瑶さんのインタビュー</a></h2>
-                                            <p>声楽を学ぶ上で、イタリア語は非常に役に立っています。SKITの授業で、定期的にイタリア語を使い、ネイティブの発音を聞いているので...</p>
-                                            <a class="read-more" href="voice-2.php">続きを読む<i class="fa fa-chevron-right"></i></a>
-                                        </div><!--//news-item-->
-                                        <div class="col-md-4">
-                                            <h2 class="title"><a href="voice-3.php">中村ひとみさんのインタビュー</a></h2>
-                                            <p>信用している友人から紹介を受けて体験授業を受けてみました。実際、体験授業を受けてみると担当してくれた先生の雰囲気がとても良かったことが...</p>
-                                            <a class="read-more" href="voice-3.php">続きを読む<i class="fa fa-chevron-right"></i></a>
-                                        </div><!--//news-item-->
-                                    </div><!--//item-->
-                                </div><!--//carousel-inner-->
-                            </div><!--//news-carousel-->  
-                        </div><!--//section-content-->     
-                    </section><!--//news-->
-                </div>
-            </div>
-        </div>
-    </div>
     
     <!-- ******FOOTER****** --> 
     <footer class="footer">
