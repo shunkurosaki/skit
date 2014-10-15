@@ -106,22 +106,12 @@
                                 <p class="featured-image"><img class="img-responsive" src="assets/images/feature/feature-2.jpg" alt="" width="100%" height="100%"></p><br>
                                  <div class="row page-row" >
                                     <figure class="thumb col-md-3 col-sm-4 col-xs-6">
-                                        <img class="img-responsive" src="assets/images/teacher/teacher-3.jpg" alt="" />
+                                        <img class="img-responsive" src="assets/images/teacher/teacher-4.jpg" alt="" />
                                     </figure>
                                     <div class="details col-md-9 col-sm-8 col-xs-6">
-                                        <h3 class="title">クレル バルブ デ クリエール</h3>
-                                        <h4>英語、フランス語</h4>
-                                        <p>Donec justo magna, mattis a ipsum in, pretium aliquet dolor. Vestibulum rhoncus dolor placerat diam laoreet dictum. Integer auctor augue eget nibh ultrices, vitae fermentum est vehicula. Nullam suscipit metus felis. Ut arcu ante, mollis quis urna in, facilisis placerat leo. Duis auctor diam at quam laoreet, vitae blandit mi fermentum. Fusce mollis pellentesque sem, non eleifend nisl. Suspendisse nisi nulla, consectetur sed pellentesque vitae.</p>                                    
-                                    </div>                               
-                                </div>
-                                <div class="row page-row" >
-                                    <figure class="thumb col-md-3 col-sm-4 col-xs-6">
-                                        <img class="img-responsive" src="assets/images/teacher/teacher-2.jpg" alt="" />
-                                    </figure>
-                                    <div class="details col-md-9 col-sm-8 col-xs-6">
-                                        <h3 class="title">アンドリュー フレンケル</h3>
+                                        <h3 class="title">マット　ハンフリーズ</h3>
                                         <h4>英語</h4>
-                                        <p>Hi, my name is Andrew. I love singing and karaoke. Traveling and learning about other languages and cultures is also a big passion of mine. I want to encourage you all to test your limits- you can do more than you think you can.</p>
+                                        <p>Hi, my name is Matt and I'm from Australia. I like traveling and food. I also enjoy talking about different cultures and meeting new people. As a hobby I enjoy listening to music and playing wadaiko. I like seeing students become more confident in their English speaking abilities which leads to greater communication.I hope you will enjoy your time at Skit.</p>
                                     </div>                               
                                 </div>
                                 <div class="row page-row" >
@@ -137,14 +127,26 @@
                                 </div>
                                 <div class="row page-row" >
                                     <figure class="thumb col-md-3 col-sm-4 col-xs-6">
-                                        <img class="img-responsive" src="assets/images/teacher/teacher-4.jpg" alt="" />
+                                        <img class="img-responsive" src="assets/images/teacher/teacher-2.jpg" alt="" />
                                     </figure>
                                     <div class="details col-md-9 col-sm-8 col-xs-6">
-                                        <h3 class="title">マット　ハンフリーズ</h3>
+                                        <h3 class="title">アンドリュー フレンケル</h3>
                                         <h4>英語</h4>
-                                        <p>Suspendisse tempus, nibh vel facilisis eleifend, ante lorem ultricies erat, id blandit mauris felis ac elit. Mauris et placerat massa. Duis nec tellus dui. Nullam facilisis lectus a nunc feugiat interdum. Fusce et sem a diam accumsan aliquam. Fusce eu hendrerit massa. Integer eget facilisis metus. Quisque vel lectus sed neque cursus auctor vitae sed nisi. Integer augue mauris, scelerisque sit amet suscipit sit amet, scelerisque in felis. Aenean lacus magna, vestibulum eu pulvinar sed, posuere nec neque.</p>                                    
+                                        <p>Hi, my name is Andrew. I love singing and karaoke. Traveling and learning about other languages and cultures is also a big passion of mine. I want to encourage you all to test your limits- you can do more than you think you can.</p>
                                     </div>                               
                                 </div>
+                                <div class="row page-row" >
+                                    <figure class="thumb col-md-3 col-sm-4 col-xs-6">
+                                        <img class="img-responsive" src="assets/images/teacher/teacher-5.jpg" alt="" />
+                                    </figure>
+                                    <div class="details col-md-9 col-sm-8 col-xs-6">
+                                        <h3 class="title">チャン サウイー</h3>
+                                        <h4>英語</h4>
+                                        <p>Hi there! My name is Sau Yee. I was born in Hong Kong, raised in Singapore, stayed in Osaka for a year and then came to Tokyo. I am always seeking new excitement and new opportunities. I love traveling and my favourite mode of transport is the bicycle. I would love to share (and also exchange) with you what I think are the most important things when it comes to using a language effectively.<br><br>
+                                        同學你好！我叫秀怡，喜歡騎自行單，旅遊，看世界。東京是個具有魅力的大城市，日本對傳統和文化的尊重亦耐人尋味。希望有機會認識你！</p>
+                                    </div>                               
+                                </div>
+                                
                             </article><!--//course-item-->
                         </div><!--//course-wrapper-->
 

@@ -120,7 +120,7 @@
                                     </figure>
                                     <div class="details col-md-9 col-sm-8 col-xs-6">
                                         <h3 class="title">Yuta Watanabe</h3>
-                                        <h4>Managing Derector</h4>
+                                        <h4>Managing Director</h4>
                                         <p>Skitの魅力。それは、世界に１つしかない、あなたの為だけの授業を提供出来る事です。Skitには個性豊かな教師陣が在籍しており、話したいテキストをあなたと一緒になって作り上げていきます。私は、生徒の方々が精一杯学習に取り組めるような環境の整備・改善に取り組んでおります。少しでもご興味のある方は、是非、一度お話を伺いにいらっしゃって下さい。</p>
                                     </div>                               
                                 </div>
@@ -132,16 +132,6 @@
                                         <h3 class="title">Liu Tong</h3>
                                         <h4>Human Resources and Quality Management Representative</h4>
                                         <p>喋りたいことを喋れるようになった時に、嬉しいそうな表情を浮かべる生徒をたくさん見てきました。Skitの独特のオーダーメイドレッスンこそ、英会話のあるべき姿だと、私は自信持ってみんなにお勧めできます。楽しく真剣に授業を受ける雰囲気をご用意するため、責任を持って採用を担当させて頂きます。Be brave, Run fast、Skitと共に一歩ずつ着実に、進んで行きましょう。</p>
-                                    </div>                               
-                                </div>
-                                <div class="row page-row" >
-                                    <figure class="thumb col-md-3 col-sm-4 col-xs-6">
-                                        <img class="img-responsive" src="assets/images/team/team-6.jpg" alt="" />
-                                    </figure>
-                                    <div class="details col-md-9 col-sm-8 col-xs-6">
-                                        <h3 class="title">Yuki Mizuoka</h3>
-                                        <h4>Sales</h4>
-                                        <p>セールス部門を担当させて頂いております、水岡です。生徒様への分かりやすく丁寧な、スキットに関する説明、フォローを行うことを心掛けております。英語と聞くと、苦手な人にとっては苦痛以外の何ものでもないかと思われます。しかし、話せるようになった気持ち良さはその分強いものとなります。It always seems impossible till it’s done. スキットを通してあなたの可能性を伸ばしてみませんか？</p>
                                     </div>                               
                                 </div>
                                 <div class="row page-row" >
