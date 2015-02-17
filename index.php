@@ -1,7 +1,3 @@
-<?php
-  header("HTTP/1.1 301 Moved Permanently");
-  header("Location: http://skitlanguage.com/");
-?>
 
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="ja" class="ie8"> <![endif]-->  
