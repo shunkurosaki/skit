@@ -1,3 +1,7 @@
+<?php 
+header('Location: http://skitlanguage.com/');
+exit();
+?>
 
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="ja" class="ie8"> <![endif]-->  
